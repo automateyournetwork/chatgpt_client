@@ -4,7 +4,8 @@ An interactive Python client for chatGPT
 ## Installation
 git clone https://github.com/automateyournetwork/chatgpt_client
 
-pip install openai
+pip install openai -U
+
 pip install python-dotenv
 
 ### chatGPT API Key
